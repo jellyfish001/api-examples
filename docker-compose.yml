@@ -8,8 +8,8 @@ services:
       - "8080:80"
     environment:
       STAGE: local
-      APP_ID: ""
-      APP_KEY: ""
+      APP_ID: "e40269b8"
+      APP_KEY: "b57974dcc24f2a075571f207f2bc1acf"
       API_URL: "https://api.kairos.com"
       API_TIMEOUT: "10" 
       POLL_TIMEOUT: "300"
